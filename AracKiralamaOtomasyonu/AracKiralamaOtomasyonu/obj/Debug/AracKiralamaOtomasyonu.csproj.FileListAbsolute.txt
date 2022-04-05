@@ -1,0 +1,16 @@
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\bin\Debug\AracKiralamaOtomasyonu.exe.config
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\bin\Debug\AracKiralamaOtomasyonu.exe
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\bin\Debug\AracKiralamaOtomasyonu.pdb
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.csprojAssemblyReference.cache
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.form_Anasayfa.resources
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.form_MusteriEkleme.resources
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.Properties.Resources.resources
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.exe
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.pdb
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.form_MusteriListeleme.resources
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.form_AracEkleme.resources
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.form_AracListeleme.resources
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.form_Kiralama.resources
+C:\Users\ilayd\source\repos\AracKiralamaOtomasyonu\AracKiralamaOtomasyonu\obj\Debug\AracKiralamaOtomasyonu.form_Satis.resources
